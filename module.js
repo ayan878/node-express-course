@@ -10,3 +10,6 @@ const sayHi = (name) => {
 sayHi("Ayan");
 sayHi("ayan");
 sayHi("raza");
+
+// module - it is also an object which has some properties {id:'.',path:"",export:{},filename:" ",children:[],paths:[' ']}
+console.log(module);

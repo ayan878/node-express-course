@@ -1,1 +1,13 @@
 # node-express-course
+  - intro
+  - what is node
+  - Browser vs Server
+  - REPL & CLI
+  - GLOBALS
+  - Module
+  - Built-in modules
+    - OS
+      - it is intract with OS and as well server 
+    - PATH
+    - FILESYSTEM
+    - HTTP

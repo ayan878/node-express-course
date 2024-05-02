@@ -5,4 +5,5 @@ const secret = 'SUPER SECRET'
 const john = 'john'
 const peter = 'peter'
 
+// exported as object
 module.exports={john,peter}
